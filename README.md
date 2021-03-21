@@ -55,10 +55,10 @@ function was. Having not found it anywhere, I googled it to find out that SetTim
 import functions rather than have some built in. My issues weren't that much and were fairly minor. They were all solved with a couple links from w3schools from Googling the issue. 
 
 3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-
+Questions I would have related to web development would probably revolve around more backend serverside. This prework is an offline "website" html markup and can be run from the computer but I would like to know more about hosting such a website. How would websites be hosted? What communication is done back and forth from user to server? How is this processed and utilized? How does changes go live? What processes happen behind the scenes of a website from the perspective of the creators/coders/company? I would like to learn about what goes on behind a full fledged functioning website that delivers something or learn how to develop a such a website, especially what props up such a website.
 
 4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+If I had a few more hours to work on this project, I think I would work on a couple of features. First, this is a game. Considering this and how the game operates, I could implement custom levels so as to expand on the game such as an easy level with 4 buttons, slower speed, less steps to winning while having medium and harder levels with more buttons, faster speed, and more steps to winning. MemoryGame is a simple game with simple mechanics and I feel like adding images or crazy sounds would take away from the game and downgrade it so the design as is should be fine and stay that way. Another idea I thought that could be implemented would be an account and leaderboard system. I would add an infinite mode/level where it could go on as far as the player can go and their score could be saved onto a leaderboard which would drive some competitive players to continue playing again and again to try and get a high score. The issue with implementing this would be the need to save player accounts and information on a server and I currently do not know how to set up or host such a thing.
 
 
 
