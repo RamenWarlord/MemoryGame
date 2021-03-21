@@ -39,8 +39,14 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![](winninggif.gif)
 
+To hear the sound go to this link: https://imgur.com/a/pw1rnYC and follow the instruction
+
+![Winning](winninggif.gif)
+
+![3 strikes](strikegif.gif)
+
+![randomized pattern](randomgif.gif)
 
 ## Reflection Questions
 1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
