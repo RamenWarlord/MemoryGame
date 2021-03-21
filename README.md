@@ -43,12 +43,15 @@ Here's a walkthrough of implemented user stories:
 To hear the sound go to this link: https://imgur.com/a/pw1rnYC and follow the instruction
 
 Winning a game
+
 ![Winning](winninggif.gif)
 
 Getting 3 strikes and losing
+
 ![3 strikes](strikegif.gif)
 
 Showcasing randomization
+
 ![randomized pattern](randomgif.gif)
 
 ## Reflection Questions
