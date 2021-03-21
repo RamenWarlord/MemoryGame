@@ -33,6 +33,7 @@ function startGame() {
   document.getElementById("startBtn").classList.add("hidden");
   document.getElementById("stopBtn").classList.remove("hidden");
   document.getElementById("strikeContainer").classList.remove("hidden");
+  document.getElementById("strikes").innerHTML = strikeCounter;
   playClueSequence();
 }
 
