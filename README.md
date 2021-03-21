@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:
-![sound](8buttoncolorsound.mp4)
+![](winninggif.gif)
 
 
 ## Reflection Questions
