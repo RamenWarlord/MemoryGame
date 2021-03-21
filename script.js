@@ -122,7 +122,7 @@ function guess(btn){
 
 function generateRandomPattern(){
   for(let i = 0; i < pattern.length; i++){
-    pattern[i] = Math.floor(Math.random() * 4 + 1);
+    pattern[i] = Math.floor(Math.random() * 8 + 1);
     console.log(pattern);
   }
 }
